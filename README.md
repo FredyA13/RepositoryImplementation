@@ -1,9 +1,9 @@
 # RepositoryImplementation
 
-En este trabajo presento el uso de la interfaz ArrayList como repositorio para guardar y mostrar datos de Maestros.
+En este trabajo presento el uso de la interfaz `ArrayList` como repositorio para guardar y mostrar datos de `Maestros`.
 
 ## Descripción
-* Se crea una clase abstracta padre llamada Persona.
+* Se crea una clase abstracta padre llamada `Persona`.
 * Se crea una clase hija llamada "Maestro" que hereda de Persona.
 * Se crea un Interfaz llamada MaestrosRepository con los métodos agregar y mostrarTodos.
 * Se crea una clase llamada MaestrosRepositoryImpl la cual implementa la interfaz MaestrosRepository.
